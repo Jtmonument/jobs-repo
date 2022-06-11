@@ -1,0 +1,50 @@
+IDEs:
+	Eclipse
+	IntelliJ
+	PyCharm
+	Microsoft Visual Studio
+	Visual Studio Code
+	Notepad++
+Languages (& associated technologies):
+	Java
+		Maven
+		JavaFX
+		JUnit5
+		Spring
+			Spring Data JPA
+			H2 Database
+			Spring Web MVC
+			Thymeleaf
+			HATEOAS
+	C++
+		Win32
+		Windows.h
+	Python
+		Selenium
+		browsermob proxy
+		scapy
+	mySQL
+		relational database
+		EER diagrams
+		mySQL Workbench
+	PHP
+		XAMPP
+	HTML
+	CSS
+		Bootstrap
+	JavaScript
+		jQuery
+	Assembly language
+Version Control:
+	Github
+	Git
+Linux:
+	VirtualBox
+	Kali Linux
+		nmap
+		pentbox (honeypot)
+		iptables
+		pfSense
+		wireshark
+		snort (IDS)
+		firewall-builder
