@@ -1,24 +1,53 @@
-JONATHAN TAYLOR+12054347006jontaylor091@gmail.comPelham, Alabama, 35124      github.com/Jtmonument	linkedin.com/in/jonathan-taylor-746ba8195/
-
 SUMMARY
-Diligent, detail-oriented, open-source-contributing computer science graduate with 7+ years of experience working with Java and 2+ years of experience working with frontend web technologies. I am a great listener with great interpersonal skills. I will put a smile on your face. Expect a faithful, morale-boosting self-learner eager to make an impact to all who rely on him.EDUCATION
-Troy University
-B.Sc. Computer Science
-Minor in Cyber Security
-August 2018 – May 2022 
-GPA: 3.3PROJECTS
+Diligent, detail-oriented, open-source-contributing computer science graduate with 7+ years of experience working with Java and 2+ years of experience working with frontend web technologies. I am a great listener with great interpersonal skills. I will put a smile on your face. Expect a faithful, morale-boosting self-learner eager to make an impact to all who rely on him.Jonathan Taylor
+CERTIFICATIONS
+* Introduction to DevOps
+* Introduction to Containers w/ Docker, Kubernetes & OpenShift
+* Introduction to Cloud Computing
+* Getting Started with Git and GitHubPROJECTS
 Open-source Algorithms
 GitHub: TheAlgorithms/Java
 * Topological Sort PR #3060, JUnit5
 List of Spring Projects
  GitHub: Jtmonument/spring-repos
 * REST API with an MVC, Pet Clinic website, Web Application
-McRonalds Restaurant Database
+“McRonalds” Restaurant Database
 GitHub: Jtmonument/sql-database-project
 * Using MySQL and MySQL Workbench created a database with effective functions, triggers, and EER Diagrams 
 Japan Travel Website
 GitHub: Jtmonument/japan-travel-website
-* Using PHP, SQL, XAMPP, HTML, CSS, JS, I created the #1 UI in my class with good server-side scriptingRELEVANT COURSES
+* Using PHP, SQL, XAMPP, HTML, CSS, JS, I created the #1 UI in my class with good server-side scriptingEXPERIENCE
+Web Developer / Master
+Troy University Computer Science Club 
+December 2021 – May 2022
+* managing the Computer Science club website and club activities
+Student AV / Tech Assistant Workship
+Troy University
+January 2020 – September 2020
+* Setting up technical equipment for university events
+AuburnHackathon
+Auburn University
+February 2020
+* creating a game in C++ that enables players to disturb PC functionality
+TroyHackathon
+Troy University Computer Science Department
+January 2020
+* team project working on frontend page templates for a pet adoption website
+Cashier/Cook
+McAlister’s Deli
+June 2017 – Present
+* serving guests with good customer service and faithfully preparing items on the menu
+CONTACT
++12054347006	
+jontaylor091@gmail.com	
+Pelham, Alabama, 35124
+linkedin.com/in/jonathan-taylor-746ba8195/
+github.com/Jtmonument	EDUCATION
+Troy University
+B.Sc. Computer Science
+Minor in Cyber Security
+August 2018 – May 2022 
+GPA: 3.3RELEVANT COURSES
 Software Engineering CS-3332-XTIA
 * SDLC, Scrum, Agile, loose coupling, DevOps, extreme programming, pair programming
 Analysis of Algorithms CS-3329-TSAA
@@ -26,27 +55,7 @@ Analysis of Algorithms CS-3329-TSAA
 Cyber Security Technique & Practice CS-4455-TSAA
 * VirtualBox, Kali Linux (virtual machine), nmap, pentbox (honeypot), iptables, pfSense, wireshark, snort (IDS), firewall-builder, scapy
 Data Structures CS-3323-TSAA
-* Arrays, linked lists, stacks, queues, trees, binary search trees, searching and sorting algorithmsEXPERIENCE
-Web Developer / Master
-Troy University Computer Science Club 
-December 2021 – May 2022
-* managing the Computer Science club website and club activities
-Student AV / Tech Assistant Workship
-January 2020 – September 2020
-Troy University
-* Setting up technical equipment for university events
-AuburnHackathon
-February 2020
-Auburn University
-* creating a game in C++ that enables players to disturb PC functionality
-TroyHackathon
-January 2020
-Troy University Computer Science Department
-* team project working on frontend page templates for a pet adoption website
-Cashier/Cook
-June 2017 – Present
-McAlister’s Deli
-* serving guests with good customer service and faithfully preparing items on the menuSKILLS
+* Arrays, linked lists, stacks, queues, trees, binary search trees, searching and sorting algorithmsSKILLS
 Programming Languages
 * Java [Very Proficient] (7+ years of experience)
 * Python [Limited Proficiency]
@@ -67,11 +76,5 @@ Other technologies
 * Linux
 * Selenium
 * Frontend tech: HTML, CSS, JavaScript, jQuery
-* Server-side tech: MySQL, PHPCERTIFICATIONS
-Coursera Certifications (no expiration date; all issued in June of 2022)
-* Introduction to DevOps
-* Introduction to Containers w/ Docker, Kubernetes & OpenShift
-*  Introduction to Cloud Computing
-* Getting Started with Git and GitHub
-
+* Server-side tech: MySQL, PHP
 
