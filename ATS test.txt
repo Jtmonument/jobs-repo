@@ -1,5 +1,5 @@
 SUMMARY
-Diligent, detail-oriented, open-source-contributing computer science graduate with 7+ years of experience working with Java and 2+ years of experience working with frontend web technologies. I am a great listener with great interpersonal skills. I will put a smile on your face. Expect a faithful, morale-boosting self-learner eager to make an impact to all who rely on him.Jonathan Taylor
+Diligent, detail-oriented, open-source-contributing computer science graduate with 7+ years of experience working with Java and 2+ years of experience working with frontend web technologies. I am a great listener with great interpersonal skills. I will put a smile on your face. Expect a faithful, morale-boosting self-learner eager to make an impact to all who rely on him.
 CERTIFICATIONS
 * Introduction to DevOps
 * Introduction to Containers w/ Docker, Kubernetes & OpenShift
